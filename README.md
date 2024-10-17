@@ -13,4 +13,6 @@ A boilerplate for starting a new project using the following technologies:
 
 ⭐ Redux Toolkit
 
+⭐ DotENV
+
 ⭐ Custom Hooks
